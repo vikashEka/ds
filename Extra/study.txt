@@ -1,3 +1,4 @@
+*****************************************************NLP Krish************************************************************
 Tokenazisation
 nltk.sent_tokenize(paragraph)//paragraph to sent_tokenize
 nltj.word_tokenise(paragraph)// paragraph to word
@@ -9,6 +10,8 @@ Lemmatization// - fetch meanng ful word , use in chat box wherever actual meanin
 
 bag of words = lowering the sentences = document matrics= count vectorization -  skitlearn used - disadnavtag weitage is same (1 or 0)
 tf idf= more prescribed, keyword that comes less times id more show senment= tf * idf
+
+****************************************************************************************************************************
 
 
 
