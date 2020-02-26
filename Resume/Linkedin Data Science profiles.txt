@@ -1,0 +1,89 @@
+                                                  
+												  Linkedin
+												  
+ Most of the candidate following coursera cource
+ https://udacity.com/course/data-scientist-nanodegree--nd025
+ https://www.udemy.com/course/machinelearning/
+ https://www.coursera.org/account/accomplishments/specialization/YKQHY98GTQC3
+ https://www.coursera.org/account/accomplishments/specialization/certificate/S33WVJ629U34
+ https://www.coursera.org/account/accomplishments/verify/MKUK2CEGD5HD
+ https://www.udemy.com/certificate/UC-MILBR4EH/ - https://www.udemy.com/course/machinelearning/
+ https://www.coursera.org/account/accomplishments/verify/6S8RXJN97A6G
+ https://www.coursera.org/account/accomplishments/certificate/RFS6CC34TVTX
+ https://www.coursera.org/account/accomplishments/verify/ZJFV44DAEB69
+ https://www.udemy.com/certificate/UC-FEJGRHJ2/  - https://www.udemy.com/course/datascience/
+ https://www.slideshare.net/slideshow/embed_code/key/hjtCF84qbbqWaS
+ 
+ 
+ https://www.linkedin.com/in/sonam-singh-179751b4/
+ Overall 4+ years of experience as a Machine Learning Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Machine Learning, Natural Language Processing, Text Mining, Information Retrieval using R, Python,NLTK . Have skill in Data Visualisation using Matplotlib.
+Have working experience in the field of Deep Learning using tensorflow.
+Strong engineering professional with a Bachelor of Engineering (BE) focused in Computer Science. 
+
+https://www.linkedin.com/in/manish-singh-22a64196/
+Machine Learning Engineer working on Computer Vision and NLP at Wipro - Holmes. 
+
+https://www.linkedin.com/in/dhanraj-sahoo-832531115/
+I am a Data Scientist with experience in Machine Learning algorithms & Natural Language Processing and Deep Learning using Different algorithms. 
+
+https://www.linkedin.com/in/ayush-kumar-581676a5/
+https://www.udemy.com/course/machinelearning/
+
+
+https://www.linkedin.com/in/ranjeet-kumar-70513752/
+A Machine learning engineer having expertise in classification, object detection, sequence modeling, recommendation systems, outliers detection, model deployment, deep learning(CNN and LSTM) with a strong mathematical background
+
+https://www.linkedin.com/in/gourav-chatterjee-a21a3034/
+https://www.coursera.org/account/accomplishments/specialization/certificate/S33WVJ629U34
+
+https://www.linkedin.com/in/saurabhg476/
+* Currently leading the Machine Learning team responsible for building and deploying ML models.
+* Built pipeline for ID card detection and classification which included data generation/augmentation, training and deployment using deep neural networks like Mobilenet, Vgg16 and Faster-RCNN.
+* Trained and deployed image-segmentation model using Mask-RCNN to locate ID number in an Identity Document(Aadhaar, PAN) image for masking it.
+
+https://www.linkedin.com/in/soumya-roy/
+Text and image classification for ads on Amazon webpage
+Deep active learning for object detection
+
+https://www.linkedin.com/in/raranj/
+Machine Learning Scientist at Observe.ai. My interest includes Machine Learning and Natural Language Processing. 
+ Finding trending and popular videos for push notifications.
+  Automatic summarization of text documents using NLP techniques to abstract the essence of the document using an unsupervised Graph-based learning algorithm for text summarization.
+  
+  https://www.linkedin.com/in/utkarsh-kulshrestha-69692666/
+  Strong Expertise in AI solutions, Machine/Deep Learning - RNN, LSTM, GRU, CNN, DNN, Keras, Tensorflow, Text Mining, NLP, RPA.
+  Specialties:
+R, Python, Scala, Go Lang, Business Analytics.
+Statistics : Anova, Hypothesis testing, PCA, Factor analysis, Hypothesis testing, Significance tests like t tests, Outlier analysis, Data clean up, Collaborative and content-based filtering and recommendations.
+Predictive Modelling : Determinant analysis, Conjoint analysis, Linear/Logistic Regressions.
+Data Mining techniques: Classification (Decision Trees), Clustering, Neural Networks, Random forest, SVM, GBM, Naive.
+Text Mining/NLP : Sentiment analysis, Stemming Algorithms, Tokenization techniques.
+Knowledge in Natural Language processing, Deep learning techniques.
+
+https://www.linkedin.com/in/chirasmitamallick/
+I have been working in all areas of Speech Recognition and NLP. With a keen interest in Neuroscience & Speech Recognition Systems, I have taken up roles as a researcher in Machine Learning /Deep Learning applications. As a Data and Product analyst, can create vizualisations to explore data, articulate clear findings to drive business decisions, or use data to elicit consensus from diverse perspectives .Looking for contributing in areas of NLP, Computational Linguistics, Information Extraction, Deep Learning , Speech Science.
+I enjoy Rapid Prototyping my research ideas to production. Polymath by nature.
+Currently , I am working on research projects on Artificial General Intelligence and exploring possible research paths toward building human-level intelligence. Exploring ideas on computational cognitive science, Emotion creation, Cognitive modelling, Human centred AI These Projects will seek to build intuition about the limitations of state-of-the-art machine learning approaches and how those limitations may be overcome
+I take my time off seriously and am an avid reader and traveller. I enjoy local cuisines wherever i go and my aim is to cover 30 countries before i turn 30 ! :)
+My Research specialities include :
+- Deep Learning and Neural Networks
+- Natural Launguage processing, Natural Language Understanding
+- Machine Translation, Speech Processing, Spoken Interfaces and Dialogue Processing
+Connect with me for opportunities on Speech Recognition, Machine learning, Deep learning and its extended applications in diverse fields. I would love to work in these areas for Maximum impact and learning to drive social impact and career growth simultaneously.
+NOTE : Due to large number of messages i only respond to those that match my schedule & interests.
+My Journey into Data Science : https://www.youtube.com/watch?v=cUe6hwEF7zI 
+
+https://www.linkedin.com/in/ankur-pal/
+I have worked on following:
+■ Machine Learning pipelines/tools: TensorFlow, Keras, Spark, R, PySpark, XGBoost, sk-learn, Python, Numpy, Scipy, OpenCL, OpenCV, Caffe, matplotlib, Pandas, seaborn, Bokeh.
+■ Programming: Python (4 years), Jupyter, C++/C++11 (3 years) ,R (4 years).
+■ GPU Libraries: PyCUDA, PyTorch.
+■ Big Data Technologies: State of the art Big Data architectures , Spark, Hadoop, HDFS, Kafka, EMR, EC2, Cloudera, Google BigQuery/DataLab, docker, nvidia-docker.
+
+
+
+
+
+ 
+ 
+ 

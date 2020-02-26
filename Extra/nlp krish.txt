@@ -1,0 +1,17 @@
+Tokenazisation
+nltk.sent_tokenize(paragraph)//paragraph to sent_tokenize
+nltj.word_tokenise(paragraph)// paragraph to word
+
+Steaming //conclude similar type of word,but disadnavtag is some word steamized to meaning less worg to remove this use lemitization,use in spam mail detaection wherever mrning is not mendatory, performave is goood
+stopword // show meanin less word ,not helpful for nlp , 1, we, is,thete 
+
+Lemmatization// - fetch meanng ful word , use in chat box wherever actual meaning required, performance is not good
+
+bag of words = lowering the sentences = document matrics= count vectorization -  skitlearn used - disadnavtag weitage is same (1 or 0)
+tf idf= more prescribed, keyword that comes less times id more show senment= tf * idf
+
+
+
+
+
+

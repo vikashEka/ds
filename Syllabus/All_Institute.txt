@@ -1,0 +1,83 @@
+
+																																
+											datacamp
+Supervised - scikit learn
+unsupervised - scikit learn, k means
+Linear classification - logistic regression and SVM
+Dimentionaly reduction in python
+Time series data
+Feature enginerring
+model validation in python 
+image processingd
+pyspark- ML in spark
+deep learning 
+	neural networks - tensor flow, keras
+Network analysis in python- NetworkZ libraray
+
+										Analysis vidya
+linear regression
+logistic regression
+decisions tree
+random forest
+k means
+
+											Simplilearn
+supervised learnining
+	linear regression
+	classification - logistic regression,snm,knn,naive bayes, decision tree,random forest
+Unsupervised learning
+	clusturing, k means
+Association
+
+											intellipat
+Supervised learning
+	linear regression,logistic regression,classification, Decision Tree, Confusion Matrix, Random Forest, Naïve Bayes classifier (Self paced), Support Vector Machine(self paced), xgboost
+Unsupervised learning
+	clustering, k means clustering
+	
+											Springboard
+Machine Learning
+Use scikit-learn to implement supervised and unsupervised algorithms
+Advanced topics: time series analysis, social network analysis
+Ensemble learning with random forests and gradient boosting
+Validate and evaluate machine learning systems
+
+											GreatLearning
+Data mining
+Introduction to Supervised and Unsupervised Learning
+Clustering
+Decision Trees
+Random Forest
+Neural Networks
+
+ML
+Supervised Learning
+	Linear Regression
+	Logistic regression
+	K-NN classification
+	Naive Bayesian classifiers
+	Support Vector Machines
+	
+Ensemble Techniques
+	Decision Trees
+	Bagging
+	Boosting
+	Random Forests
+	Stacking
+	
+Unsupervised Learning
+	K Means clustering
+	Hierarchical clustering
+	Principal Component Analysis
+	
+Recommendation Systems
+	Collaborative filtering
+Content based filtering
+Hybrid recommendation systems
+Performance measurement
+
+Introduction to Deep Learning
+	Fundamentals of neural networks
+Tensorflow and Keras
+Convolutional Neural Networks
+Evaluation of Deep Learning models

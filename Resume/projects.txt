@@ -1,0 +1,51 @@
+Claims Management System-
+The system was designed to assist the team for approval of claims . Based on the
+company's data collected for different type of claims which were made in past with their
+credibility . The system uses machine learning to predict the class (Good for
+Approval,Reject or Verify Manually) claim based on credibility.
+
+Inventory and stock allocation based on sales prediction-
+The application was to to provide a report of ale projection for different verity of stones and
+tiles in all the states of U.S. That helped the inventory team and warehouse team to
+manage the supply. The model was designed using sales data of last 5 years from different
+area and based on that the model tried to classify products in 3 classes high,moderate and
+low sales classes.
+Technology Used- Pandas,Numpy , PCA ,Matplotlib ,Random Forest Classifiers,SQL Server
+2012.
+
+Sales Projection of Stones Categories-
+There are different types of stones which used to be imported from different country so
+company wanted a sales prediction for different type of stones national wise to manage
+imports accordingly, for which we used the historical sales data and classified the types of
+stones in different category of sales.
+Technology Used- Pandas,Numpy,Matplotlib ,Z-Score , Random Forest Classifiers,SQL
+Server 2012.
+
+ML Crane- Accessories and parts Requirement Prediction System-
+The company had many service stations across country for service of cranes, and
+it was difficult for them to maintain supply of all parts across all service centers as
+they were having different demands to organize the supply they wanted to have
+predicted model that can predict if that which parts will be needed in a particular
+region and they used to provide those parts in that region. We got many data
+related to climate, industrial uses and other related information and using which
+we prepared our model. For this we tested many ML algorithms and then found
+decision tree and random forest were having similar output so we decided to put
+decision tree as the it needed less computation time and less computational
+resources.
+Technology Used- Pandas,Numpy , PCA ,Matplotlib ,Random Forest
+Classifiers,SQL Server 2012.
+
+Project #1: Loan Underwriting
+This project refers the process of a lender determining if a borrower's loan application is an acceptable risk. Based on the analysis of the credit, capacity, and collateral of the customer, we have predicted whether a particular customer could be sanctioned a Loan or not and also predicted the amount which could be sanctioned.
+Responsibilities:
+ To Pre-process the data of more than 1 Million Records and hundreds of Features.
+ To build and Train a Machine Learning Model using Logistics Regression, Random Forest Classification, Xgboost Classification, Voting Classifier.
+ To find the accuracy of the Model Prediction using Classification Reports, Confusion Matrix, AUC Score.
+ To predict the Loan Amount which could be sanctioned to the eligible customers using Linear Regression, Ridge Regression and Lasso Regression.
+ To plot the prediction graph using Matplotlib Library to show the Loan Amount Prediction.
+
+Project 2 : Credit and Loan eligiblity score
+In this project, we built a model for analyzing the credit score and loan eligibility of the customers based on the previous transaction and KYC information with cognitive computing technologies with cross validation set and regression tools while filling the online application.
+(Python,classification and regression model , neural networks)
+
+

@@ -1,0 +1,365 @@
+https://www.youtube.com/user/krishnaik06/featured
+https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ/featured
+https://www.youtube.com/channel/UCyHta2dyCTkf29AB67AYn7A/playlists
+https://www.youtube.com/user/mathematicalmonk/about
+https://www.youtube.com/channel/UCqtValEjW3-Mar0sqiWO_Hw
+https://www.youtube.com/user/sentdex/featured
+
+*********************************************************Syllabus******************************************************
+                        *******************************Data Science*********************
+git example of all - practical AI
+Git practice of all topics in office/cheatshhet/FB
+Data Science Overview
+Data Analytics Overview
+Statistical Analysis and Business Applications
+Python Environment Setup and Essentials
+Mathematical Computing with Python (NumPy)
+Scientific computing with Python (Scipy)
+Data Manipulation with Pandas
+Data Visualization in Python using matplotlib
+
+					     ***************************ML************************************
+
+Supervised Learning
+	Regression
+		Linear Regression,
+		logistic regression,
+		decision tree and random forest
+	classification 
+	    K-NN classification,Support Vector Machines,naive bayes classifier,Confusion Matrix
+										
+Unsupervised Learning
+  clusturing
+	K Means clustering
+	Hierarchical clustering
+  Dimentionaly reduction
+    Principal Component Analysis(PCA)
+	Feature selection
+	Linear discriminant analysis(LDA)
+  Association
+    
+Ensemble Techniques
+	Bagging
+	Boosting(Adaboost,XGboost,gradient boost,model selection,model selection)
+	Stacking	
+											
+Introduction to Deep Learning
+	Fundamentals of neural networks - Tensorflow and Keras
+  Evaluation of Deep Learning models	
+
+Recommendation Systems
+	Collaborative filtering
+	Content based filtering
+	Hybrid recommendation systems
+	Performance measurement
+	Association rule mining (Apriori algorithm)
+										
+Others
+	statistics (mean, median, mode, variance, standard deviation)
+	Statistical Methods for Decision Making-Probability distribution,Normal and Poissons distribution,Bayes’and Central limit theorem
+	image processing
+	Time series data
+	forcasting
+	Feature enginerring
+	Web Scraping with BeautifulSoup
+	model validation in python 
+	Dimentionaly reduction in python
+	pyspark- ML in spark 
+	Network analysis in python- NetworkZ libraray
+	Association
+	social network analysis
+	Validate and evaluate machine learning systems										
+	Data mining
+	Data Wrangling
+	Featurization ,model selection and tuning
+									
+*******************************************************************************************************************************************
+*******************************************************************************************************************************************
+******************************************************************************************************************************************
+													Path to Learn Step by step											
+https://hackr.io/tutorials/learn-data-science
+https://hackr.io/roadmaps/data-science-roadmap 
+https://hackr.io/tutorials/learn-python
+https://hackr.io//tutorials/learn-machine-learning-ml	
+https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/  
+https://courses.analyticsvidhya.com/courses/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019
+https://www.analyticsvidhya.com/blog/2020/01/learning-path-data-scientist-machine-learning-2020/
+https://www.analyticsvidhya.com/blog/2020/01/learning-path-nlp-2020/
+https://www.analyticsvidhya.com/blog/2016/01/ultimate-plan-data-scientist-2016/ 
+https://www.guru99.com/data-science-tutorial.html
+https://datascientist88.blogspot.com/2019/02/best-data-science-courses.html
+																									
+*************************************************************************************
+													Websites													
+https://towardsdatascience.com			2,225		665
+https://www.kaggle.com/                 2,630       844	
+https://www.analyticsvidhya.com/        8,152       1,056
+https://www.datacamp.com/				4,001		1,245
+https://www.analyticsindiamag.com/		27,665		2,838												
+https://www.kdnuggets.com/				23,028  	4,433
+https://www.dataquest.io/				16,601		8,000
+https://www.analyticsjobs.in/			332,342		29,013
+https://datascientist88.blogspot.com/
+
+*************************************************************************************		
+													Links
+Learn python
+https://www.programiz.com/python-programming/tutorial 
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/ 
+
+https://www.youtube.com/watch?v=YfO28Ihehbk 
+https://www.udemy.com/course/complete-python-bootcamp/
+https://courses.analyticsvidhya.com/courses/take/introduction-to-data-science/texts/5858160-implementing-functions-in-python 
+https://www.youtube.com/watch?v=-Rf4fZDQ0yw&list=PLjgj6kdf_snaw8QnlhK5f3DzFDFKDU5f4&index=1
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+https://www.youtube.com/watch?v=_uQrJ0TkZlc
+https://www.youtube.com/watch?v=rfscVS0vtbw
+
+ML
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&ref=hackr.io
+https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal&ref=hackr.io
+https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
+https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC
+
+others
+https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A
+https://courses.analyticsvidhya.com/courses/take/a-comprehensive-learning-path-to-become-a-data-scientist-in-2019/texts/6074857-getting-started
+https://www.digitalvidya.com/blog/python-for-data-science/
+Inroduction to NLP
+https://courses.analyticsvidhya.com/courses/Intro-to-NLP
+Free projects
+https://courses.analyticsvidhya.com/collections?category=projects
+Experiments with data
+https://courses.analyticsvidhya.com/courses/experiments-with-data
+NLP cources
+https://careerhops.wixsite.com/mirrorneuron/post/top-10-natural-language-processing-course
+DataCamp projects
+https://www.datacamp.com/projects
+
+*****************************************************************************************
+													Syllabus
+https://www.upgrad.com/data-science-masters-degree-iiitb/
+https://www.upgrad.com/machine-learning-nlp-pgc-iiitb/
+https://www.greatlearning.in/7-months-program-data-science-business-analytics
+https://www.greatlearning.in/pg-program-machine-learning-course
+https://www.codingninjas.in/courses/online-data-science-course
+https://intellipaat.com
+https://www.simplilearn.com/
+https://www.analyticsvidhya.com/
+https://www.datacamp.com/
+https://www.dataquest.io/
+https://in.springboard.com/
+*****************************************************************************************
+													Blog
+https://hackr.io/blog/data-analyst-vs-data-scientist
+https://hackr.io/blog/data-science-vs-machine-learning										
+https://www.upwork.com/
+https://www.slideshare.net/slideshow/embed_code/key/hjtCF84qbbqWaS
+https://www.reddit.com/r/datascience/
+*****************************************************************************************
+
+												  Cheatsheet
+DS
+https://github.com/abhat222/Data-Science--Cheat-Sheet
+https://github.com/FavioVazquez/ds-cheatsheets
+ML
+https://github.com/abhat222/Data-Science--Cheat-Sheet/blob/master/Data%20Science/Cheat%20Sheets%20for%20AI%2C%20Neural%20Networks%2C%20Machine%20Learning%2C%20Deep%20Learning%20%26%20Big%20Data.pdf
+https://github.com/kailashahirwar/cheatsheets-ai
+
+*****************************************************************************************
+													Interview Questions
+https://github.com/abhat222/Data-Science-Free
+https://github.com/abhat222/Data-Science--Cheat-Sheet/tree/master/Interview%20Questions
+*****************************************************************************************
+													Practice code
+https://github.com/abhat222/practicalAI
+													
+****************************************************************************************************************************************
+****************************************************************************************************************************************
+****************************************************************************************************************************************
+cheatsheet
+quora
+Youtube
+alexa
+tutorial site
+online tutorial
+coaching
+naukri
+google images
+linkedin
+google news
+Top programming lang
+Twitter
+Flipkart
+Torrent
+projects
+website
+wiki
+app - Enki,Data Camp
+BalwinderBCK->Stanford Machine Learning- video                                          
+										   
+										   Data Science
+ Same profile(Only designation is different but job responsibility is same )
+ Data Science = Data Scientist
+ Data Analysis = Data Analyst
+ Machine learning = Data Scientist
+ Skills needed for Data Analyst are R, Python, SQL, SAS, SAS Miner.
+ Heading Machine Learning/Deep Learning efforts for products involving text, images and speech. Speaker/panelist at various forums.
+ 
+										  Data Engineer
+ Different profile
+ Data Engineer =  big data
+ Skills needed for Data Engineer are Pig, Hive, Hadoop, MapReduce techniques.
+ 
+ 
+												Wiki
+ Data Science
+ Data science is a multi-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.[1][2] Data science is the same concept as data mining and big data.
+ Data science is a "concept to unify statistics, data analysis, machine learning and their related methods" in order to "understand and analyze actual phenomena" with data.[4] It employs techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, and information science. 
+ 
+ Data analysis 
+ Data analysis is a process of inspecting, cleansing, transforming and modeling data with the goal of discovering useful information, informing conclusion and supporting decision-making.
+ 
+ Machine learning (ML) 
+ Machine learning (ML) is the scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead. It is seen as a subset of artificial intelligence. Machine learning algorithms build a mathematical model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to perform the task
+ 
+												NOTE-Quora
+												
+
+Even I am preparing for the same, and even I did a lot of research on this so will let you know how to start with it.
+Start with Python.
+A-Z Hands on Python on Udemy is the best to start with.
+It will be better if you could also do data structures and algorithms using Python as that will only make you better.
+Once this has been done, A-Z Hands on Data science/Machine learning using R and Python on Udemy will be good to start with Data science basics and advanced.
+===================================
+Coursera have some good course on Data Science basics which is taught by University of Michigan Profs.
+===================================
+If you get comfortable with it and want to try some data science before college, sign up for the Free University of Michigan series on Coursera(there are two Python for everyone and Python for Data Analysis)…take your time and go through them both.
+===================================
+You can use datasets from Kaggle for practise.
+===================================
+Start with Khan academy for Maths and for ML start with Andrew NG videos at YouTube.
+===================================
+Applied Data Science with Python (coursera)
+University of Michigan
+Udemy (Machine learning A-Z)
+===================================
+Best courses are available online from worlds best professors in the English Language for free.
+Browse for
+Andrew course on Course Era,
+or
+CS231 stanford winter 2016 lectures 1 -10 on youtube.
+or
+Python for Data Science and Machine Learning Bootcamp
+or
+Machine Learning A-Z™: Hands-On Python & R In Data Science
+===================================
+Do some data science project on kaggle.
+===================================
+Khan Academy for maths. Statistics, probabily, matrices etc are very very useful tools for data visualizations, analysis and inferences.
+
+online video tutorial
+    udemy         		124/39  
+	MITOpnCouseWare     431/571
+	Khnacademy          453/861
+	coursera      		480/212
+	edx                 1259/820
+	pluralsight   		2593/965
+	codecacademy        2440/1100
+	lynda         		2784/1450
+	udacity       		2506/1144
+	edureka       		4282/527
+	datacamp			4001/1245
+	analyticsvidhya     8955/1788
+	simplileaarn        6024/663
+	intellipat          9560/1327
+	Upgrade             14018/1173
+	GreatLearning       19440/1715
+	Springboard         23641/6635
+	dataquest           15890/7545
+*****************************************************************************************
+											NLP and Recommendation systems
+upgrad
+nlp
+Tree Models
+Model Selection & General ML Techniques
+Bagging and Boosting
+Advanced Regression
+Advanced Regression Assignment
+Principal Component Analysis
+Time Series Analysis
+Telecom Churn Case Study
+Lexical processing ****
+Syntactic Processing ****
+Syntactic Processing Assignment ****
+Semantic Processing
+Chatbot Case Study  ****
+Capstone project
+ 
+GreatLearning 
+Statistical NLP (Natural Language Processing)
+Bag of Words Model
+TF-IDF
+POS Tagging
+Named Entity Recognition
+Tokenization
+Stop Words
+Word Vectorizer
+
+
+Sequential NLP (Natural Language Processing)
+Introduction to Sequential data
+RNNs and its mechanisms
+Vanishing & Exploding gradients in RNNs
+Time series analysis
+LSTMs
+LSTMs with attention mechanism
+GRUs - Gated recurrent unit
+Case study: Machine Translation
+Case study: Sentiment analysis
+	
+intellipat
+Text Classification
+Natural Language Processing
+Text Mining, Cleaning, and Pre-processing
+Sentence Structure
+Language Modeling
+Sequence Tasks
+Vector Space Models and Semantic Analysis
+Natural Language Toolkit
+Dialog systems
+
+simplileaarn
+Recommendation
+10.1 Learning Objectives00:28
+10.2 Introduction02:17
+10.3 Purposes of Recommender Systems00:45
+10.4 Paradigms of Recommender Systems02:45
+10.5 Collaborative Filtering: Part A02:14
+10.6 Collaborative Filtering: Part B01:58
+10.7 Association Rule Mining01:47
+Association Rule Mining: Market Basket Analysis01:43
+10.9 Association Rule Generation: Apriori Algorithm00:53
+10.10 Apriori Algorithm Example: Part A02:11
+10.11 Apriori Algorithm Example: Part B01:18
+10.12 Apriori Algorithm: Rule Selection
+
+datacamp
+NLP
+Regular expressions & word tokenization
+Simple topic identification
+Named-entity recognition
+Building a "fake news" classifier
+
+Edureka
+NLP
+Download:https://www.edureka.co/python-natural-language-processing-course?qId=f51d7f4e7e9e9bda369d792bf83a8c49&index_name=prod_search_results_courses&objId=698&objPos=1
+Introduction to Text Mining and NLP
+Extracting, Cleaning and Pre-processing Text
+Analyzing Sentence Structure
+Text Classification - I
+Text Classification - II
+In Class Project
+
+
